@@ -7,7 +7,7 @@ sudo apt install -y dos2unix libfuse-dev
 sudo bash -c 'bash <(curl -sL https://build-scripts.immortalwrt.org/init_build_environment.sh)'  
 
 使用步骤：  
-git clone https://github.com/ZqinKing/wrt_relese.git  
+git clone https://github.com/YOLOCDC/zqinking-libwrt  
 cd wrt_relese  
   
 编译京东云雅典娜、亚瑟、太乙、AX5(JDC版):  
