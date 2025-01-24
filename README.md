@@ -8,7 +8,7 @@ sudo bash -c 'bash <(curl -sL https://build-scripts.immortalwrt.org/init_build_e
 
 使用步骤：  
 git clone https://github.com/YOLOCDC/zqinking-libwrt  
-cd wrt_relese  
+cd zqinking-libwrt 
   
 编译京东云雅典娜、亚瑟、太乙、AX5(JDC版):  
 ./build.sh jdcloud_ipq60xx_immwrt  
